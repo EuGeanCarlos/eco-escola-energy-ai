@@ -70,11 +70,15 @@ Modelos externos para:
 
 Front-End
 ↓
+
 API REST (Java/Spring)
+
 ↓
 Services (Lógica)
+
 ↓
-IA Local → IA Generativa (opcional)
+IA Local → IA Generativa
+
 ↓
 Banco de Dados (PostgreSQL)
 
